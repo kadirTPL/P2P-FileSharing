@@ -6,3 +6,6 @@ If you want to test the project run the .py files in this order:
 4-Chunk Download
 
 Received files are located in the folder the location you give in the chunkDownload
+
+Kadir Topal
+Kerem Karataş
